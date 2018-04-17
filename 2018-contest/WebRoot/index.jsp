@@ -21,6 +21,6 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
   </head>
   
   <body>
-    This is my JSP pag. <br>
+    This is my JSP pa. <br>
   </body>
 </html>
