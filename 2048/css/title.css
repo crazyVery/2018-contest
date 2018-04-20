@@ -1,0 +1,89 @@
+.title
+{
+    width: 568px;
+    height: 100px;
+    margin:  20px;
+   
+}
+
+.titleName
+{
+    width: 200px;
+    height: 100px;
+    position: relative;
+    float: left;
+    font-size: 92px;
+    color: #776E65;
+   
+}
+
+.titleScore
+{
+    width: 368px;
+    height: 100px;
+    position: relative;
+    float: left;
+    
+}
+
+.scoreBlock
+{
+    width: 368px;
+    height: 64px;
+    position: relative;
+    float: top;
+    
+}
+
+.scoreBlock
+{
+    width: 200px;
+    height: 60px;
+    margin: 2px;
+    padding: 0px;
+    background-color: #BBADA0;
+    border-radius: 3px;
+    position: relative;
+    float: right;
+}
+
+.newGameBlock
+{
+    width: 368px;
+    height: 36px;
+    position: relative;
+    float: top;
+}
+
+.newGameButton
+{
+    width: 200px;
+    height: 30px;
+    margin: 3px;
+    padding: 0px;
+    background-color: #776E65;
+    color: white;
+    border-radius: 3px;
+    font-size: 18px; 
+    position: relative;
+    float: right;
+}
+
+.scoreLabel
+{
+    width: 180px;
+    height: 20px;
+    position: relative;
+    float: top;
+}
+
+.scoreNumber
+{
+    width: 180px;
+    height: 40px;
+    margin: 3px;
+    font-size: 34px;
+    color: white;
+    position: relative;
+    float: top;
+}

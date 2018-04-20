@@ -1,0 +1,37 @@
+html,body
+{
+   margin: 0;
+   padding: 0;
+   background: #faf8ef;
+   color: #776e65;
+   font-family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;
+   font-size: 18px;
+}
+
+.gridBackground
+{
+    width: 568px;
+    height: 568px;
+    background: #BBADA0;
+    border-radius: 8px;
+    padding: 10px;
+    margin: 0px;
+}
+
+.gridCell
+{
+   width: 126px;
+   height: 126px;
+   margin: 8px;
+   background: #CDC0B4;
+   border-radius: 6px;
+   padding: 0px;
+   float: left;
+}
+
+.blockCell
+{
+    width: 126px;
+    height: 126px;
+    border-radius: 6px;
+}
